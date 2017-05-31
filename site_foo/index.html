@@ -9,8 +9,15 @@
   </head>
 
   <body>
-    <script src="js/scripts.js"></script>
+    <script src="js/CETEI.js"></script>
     <div>Hello world, are you ready for me?</div>
+    <div id="TEI"></div>
+    <script>
+     var CETEIcean = new CETEI()
+CETEIcean.getHTML5('data/foo.tei', function(data) {
+document.getElementById("TEI").appendChild(data)
+     })
+  </script>
   </body>
 
 </html>
