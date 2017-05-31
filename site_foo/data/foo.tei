@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indenture of Edward Garrison</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <msDesc>
+         <p>in English, printed (invariant parts), with handwriting (variant parts), containing both signatures and seals</p>
+      </msDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div1 type="certification">This Indenture
+<div2 type="subject">WITNESSETH That <name type="person">Edward Garrison</name> by and with the
+consent of his father</div2>
+<div2 type="terms">
+hath put himself, and by these presents
+  doth voluntarily, and of his own free will and accord,
+put himself <occupation>Apprentice</occupation> to <name type="person">Daniel Drais</name>
+to learn his Art, Trade and Mystery of a <occupation>Sail maker</occupation>
+and after the manner of an Apprentice, to serve the said <name type="person">Daniel Drais</name>
+  from the day of the date hereof,
+for and during, and to the full end and term of <date when="18241127" dur="P6Y2M6D">six years two months and
+six days</date> — next ensuing During all which term the said
+[a]pprentice his said master faithfully shall serve, his secrets keep, his lawful com-
+mands every where readily obey. He shall do no damage to his said master, nor
+see it done by others, without letting or giving notice thereof to his said master.
+He shall not waste his said master's goods, nor lend them unlawfully to any.—
+He shall not commit fornication, nor contract matrimony within the said term—
+He shall not play at cards, dice, or any other unlawful game, whereby his said
+master may have damage. With his own goods, nor the goods of others, without
+license from his said master, he shall neither buy nor sell. He shall not absent
+himself day nor night from his said master's service, without his le[a]ve, nor haunt
+ale-houses, taverns, or play-houses, but in all things behave himself as [a f]aithful ap-
+prentice ought to do, during the said term. And the said master shall use the ut-
+most of his endeavours to teach, or cause to be taught or instructed, the said ap-
+prentice in the trade [or my]stery of Sail making
+and procure and provide for him sufficient meat, drink, clothing
+lodging, and washing, fitting for an apprentice, during the said term /of/ to receive
+one quarters right schooling during each winter of the term
+</div2><div2 type="binding">
+And for the true performance of all and singular, the covenants and agreements
+aforesaid, the said parties bind themselves each unto the other, firmly by these
+presents. In Witness whereof, the said parties have interchangeably set their hands
+and seals hereunto.
+</div2><div2 type="effective_date">
+
+DATED <date when="18241127"the twenty seventh day of November Annoque Domini,
+one thousand eight hundred and twenty four
+</date>
+</div2><div2 type="acknowledgement">
+Taken and acknowledged before me,
+one of the Aldermen in and for the
+<name type="place">City of Philadelphia</name>, the day and
+year aforesaid. 
+</div2>
+</div1>
+      </body>
+  </text>
+</TEI>
+
